@@ -1,0 +1,28 @@
+{
+  "name": "react-native-image-viewer",
+  "version": "0.0.1",
+  "description": "A simple image view component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "gallery",
+    "photo",
+    "ios",
+    "android",
+    "zoom",
+    "pagination"
+  ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/justQing00/react-native-image-viewer"
+  },
+  "author": "Tan",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react-native-photo-view": "1.2.0"
+  }
+}
