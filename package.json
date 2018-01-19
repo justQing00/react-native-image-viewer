@@ -15,9 +15,9 @@
     "zoom",
     "pagination"
   ],
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/justQing00/react-native-image-viewer"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justQing00/react-native-image-viewer"
   },
   "author": "Tan",
   "license": "MIT",
